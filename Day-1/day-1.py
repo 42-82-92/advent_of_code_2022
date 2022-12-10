@@ -1,5 +1,5 @@
 # https://adventofcode.com/2022/day/1
-# Problem statement: There is no way to identify who has the most calories, and there are too many elf's to fine the answer manually. 
+# Problem statement: There is no way to identify who has the most calories, and there are too many elf's to find the answer manually. 
 # goal: determine which elf has the most calories
 # when someone is describing an problem, use that time to determine what the user's problem statement is. 
 
